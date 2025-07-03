@@ -1,0 +1,4 @@
+vlib work
+vlog  top_tb.v top.v 
+vsim -voptargs=+acc work.tb_fft32_top 
+add wave *

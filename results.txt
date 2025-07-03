@@ -1,0 +1,193 @@
+Line 1:
+  File1: (627,000) -> mag=7.390625
+  File2: (627,000) -> mag=7.390625
+  Mag diff: 0.000000
+  Error Q5.6 hex: 000
+
+Line 2:
+  File1: (1a0,708) -> mag=7.567405
+  File2: (19D,702) -> mag=7.575870
+  Mag diff: 0.008464
+  Error Q5.6 hex: 001
+
+Line 3:
+  File1: (560,77d) -> mag=10.697649
+  File2: (55D,77D) -> mag=10.743662
+  Mag diff: 0.046013
+  Error Q5.6 hex: 003
+
+Line 4:
+  File1: (750,0a7) -> mag=3.790955
+  File2: (74E,0A3) -> mag=3.771197
+  Mag diff: 0.019758
+  Error Q5.6 hex: 001
+
+Line 5:
+  File1: (105,0f1) -> mag=5.550769
+  File2: (106,0F2) -> mag=5.572849
+  Mag diff: 0.022080
+  Error Q5.6 hex: 001
+
+Line 6:
+  File1: (7d5,657) -> mag=6.674527
+  File2: (7D0,658) -> mag=6.667318
+  Mag diff: 0.007210
+  Error Q5.6 hex: 000
+
+Line 7:
+  File1: (7a0,73d) -> mag=3.396093
+  File2: (7A1,73D) -> mag=3.389221
+  Mag diff: 0.006872
+  Error Q5.6 hex: 000
+
+Line 8:
+  File1: (669,073) -> mag=6.608359
+  File2: (664,071) -> mag=6.675241
+  Mag diff: 0.066882
+  Error Q5.6 hex: 004
+
+Line 9:
+  File1: (782,045) -> mag=2.244622
+  File2: (782,045) -> mag=2.244622
+  Mag diff: 0.000000
+  Error Q5.6 hex: 000
+
+Line 10:
+  File1: (65f,749) -> mag=7.115434
+  File2: (65E,749) -> mag=7.129744
+  Mag diff: 0.014311
+  Error Q5.6 hex: 001
+
+Line 11:
+  File1: (754,051) -> mag=2.970600
+  File2: (755,051) -> mag=2.956471
+  Mag diff: 0.014128
+  Error Q5.6 hex: 001
+
+Line 12:
+  File1: (0df,63b) -> mag=7.889279
+  File2: (0E6,639) -> mag=7.966069
+  Mag diff: 0.076790
+  Error Q5.6 hex: 005
+
+Line 13:
+  File1: (0cf,745) -> mag=4.358731
+  File2: (0CE,746) -> mag=4.336662
+  Mag diff: 0.022069
+  Error Q5.6 hex: 001
+
+Line 14:
+  File1: (22c,7f3) -> mag=8.689874
+  File2: (231,7EB) -> mag=8.771764
+  Mag diff: 0.081890
+  Error Q5.6 hex: 005
+
+Line 15:
+  File1: (6c8,7b5) -> mag=5.013872
+  File2: (6CA,7B6) -> mag=4.979842
+  Mag diff: 0.034030
+  Error Q5.6 hex: 002
+
+Line 16:
+  File1: (710,706) -> mag=5.414914
+  File2: (715,701) -> mag=5.418294
+  Mag diff: 0.003380
+  Error Q5.6 hex: 000
+
+Line 17:
+  File1: (185,000) -> mag=6.078125
+  File2: (185,000) -> mag=6.078125
+  Mag diff: 0.000000
+  Error Q5.6 hex: 000
+
+Line 18:
+  File1: (710,0fa) -> mag=5.414914
+  File2: (715,0FF) -> mag=5.418294
+  Mag diff: 0.003380
+  Error Q5.6 hex: 000
+
+Line 19:
+  File1: (6c8,04b) -> mag=5.013872
+  File2: (6CA,04A) -> mag=4.979842
+  Mag diff: 0.034030
+  Error Q5.6 hex: 002
+
+Line 20:
+  File1: (22c,00d) -> mag=8.689874
+  File2: (231,015) -> mag=8.771764
+  Mag diff: 0.081890
+  Error Q5.6 hex: 005
+
+Line 21:
+  File1: (0cf,0bb) -> mag=4.358731
+  File2: (0CE,0BA) -> mag=4.336662
+  Mag diff: 0.022069
+  Error Q5.6 hex: 001
+
+Line 22:
+  File1: (0df,1c5) -> mag=7.889279
+  File2: (0E6,1C7) -> mag=7.966069
+  Mag diff: 0.076790
+  Error Q5.6 hex: 005
+
+Line 23:
+  File1: (754,7af) -> mag=2.970600
+  File2: (755,7AF) -> mag=2.956471
+  Mag diff: 0.014128
+  Error Q5.6 hex: 001
+
+Line 24:
+  File1: (65f,0b7) -> mag=7.115434
+  File2: (65E,0B7) -> mag=7.129744
+  Mag diff: 0.014311
+  Error Q5.6 hex: 001
+
+Line 25:
+  File1: (782,7bb) -> mag=2.244622
+  File2: (782,7BB) -> mag=2.244622
+  Mag diff: 0.000000
+  Error Q5.6 hex: 000
+
+Line 26:
+  File1: (669,78d) -> mag=6.608359
+  File2: (664,78F) -> mag=6.675241
+  Mag diff: 0.066882
+  Error Q5.6 hex: 004
+
+Line 27:
+  File1: (7a0,0c3) -> mag=3.396093
+  File2: (7A1,0C3) -> mag=3.389221
+  Mag diff: 0.006872
+  Error Q5.6 hex: 000
+
+Line 28:
+  File1: (7d5,1a9) -> mag=6.674527
+  File2: (7D0,1A8) -> mag=6.667318
+  Mag diff: 0.007210
+  Error Q5.6 hex: 000
+
+Line 29:
+  File1: (105,70f) -> mag=5.550769
+  File2: (106,70E) -> mag=5.572849
+  Mag diff: 0.022080
+  Error Q5.6 hex: 001
+
+Line 30:
+  File1: (750,759) -> mag=3.790955
+  File2: (74E,75D) -> mag=3.771197
+  Mag diff: 0.019758
+  Error Q5.6 hex: 001
+
+Line 31:
+  File1: (560,083) -> mag=10.697649
+  File2: (55D,083) -> mag=10.743662
+  Mag diff: 0.046013
+  Error Q5.6 hex: 003
+
+Line 32:
+  File1: (1a0,0f8) -> mag=7.567405
+  File2: (19D,0FE) -> mag=7.575870
+  Mag diff: 0.008464
+  Error Q5.6 hex: 001
+
+Average magnitude error: 0.026492
